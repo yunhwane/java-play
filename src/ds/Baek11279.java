@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.PriorityQueue;
 import java.util.StringTokenizer;
 
-public class beak11279 {
+public class Baek11279 {
 
     public static void main(String[] args) throws IOException {
 
